@@ -1,0 +1,20 @@
+{
+  "aka": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-akash-aka-200308-authRole",
+      "UnauthRoleArn": "arn:aws:iam::168709458868:role/amplify-akash-aka-200308-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::168709458868:role/amplify-akash-aka-200308-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-akash-aka-200308-deployment",
+      "UnauthRoleName": "amplify-akash-aka-200308-unauthRole",
+      "StackName": "amplify-akash-aka-200308",
+      "StackId": "arn:aws:cloudformation:ap-south-1:168709458868:stack/amplify-akash-aka-200308/44c59f30-55ac-11eb-aa3e-06d8b429ea60",
+      "AmplifyAppId": "d27evm9991q30o"
+    },
+    "categories": {
+      "auth": {
+        "akash9ec4523b": {}
+      }
+    }
+  }
+}

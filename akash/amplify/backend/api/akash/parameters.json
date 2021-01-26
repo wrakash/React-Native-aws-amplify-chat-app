@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "akash",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authakash9ec4523b",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
